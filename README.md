@@ -59,3 +59,8 @@ Matplotlib was used to create different visualizations including:
 - Line charts
 - Horizontal bar charts
 - Histograms
+
+### 👨‍💻 Author
+
+**Kunal Marwari** — MCA Student at Panjab University, Chandigarh.
+Passionate about Data Analytics, Programming, and building practical technology projects.
