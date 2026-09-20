@@ -60,6 +60,12 @@ Matplotlib was used to create different visualizations including:
 - Horizontal bar charts
 - Histograms
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
-**Kunal Marwari** — href="http://www.linkedin.com/in/kunal-marwari-391847438"
+Kunal Marwari
+
+MCA Student | Developer | Building Web & Software Projects |
+
+💻 GitHub: https://github.com/kunalmarwari1-design?tab=repositories
+
+💼 LinkedIn: http://www.linkedin.com/in/kunal-marwari-391847438
