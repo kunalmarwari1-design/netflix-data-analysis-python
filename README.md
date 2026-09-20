@@ -62,5 +62,4 @@ Matplotlib was used to create different visualizations including:
 
 ### 👨‍💻 Author
 
-**Kunal Marwari** — MCA Student at Panjab University, Chandigarh.
-Passionate about Data Analytics, Programming, and building practical technology projects.
+**Kunal Marwari** — href="http://www.linkedin.com/in/kunal-marwari-391847438"
